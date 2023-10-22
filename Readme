@@ -1,0 +1,3 @@
+1. First of all, import all the libraries required. We will import the fetch_openml from the sklearn.datasets library.
+
+2. Create a variable mnist, and store in it the mnsit_784 dataset from the featch_openml And you can further print and see the contents of this mnist dataset. You can see its keys, its data, its corresponding labels, and more.
